@@ -1,0 +1,11 @@
+debug/linechartwidget.o
+debug/main.o
+debug/mainwindow.o
+debug/piechartwidget.o
+debug/zhuce.o
+debug/zhujiemian.o
+debug/qrc_Resources.o
+debug/moc_mainwindow.o
+debug/moc_piechartwidget.o
+debug/moc_zhuce.o
+debug/moc_zhujiemian.o
